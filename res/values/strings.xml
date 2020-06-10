@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Library</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_camp">CampActivity</string>
+    <string name="title_activity_ncc__parede">Ncc_Parede</string>
+
+    <string-array name="parede">
+        <item>Winner</item>
+        <item>Runner</item>
+         <item>III</item>
+          <item>IV</item>
+           <item>V</item>
+             <item>Participate</item>
+    </string-array>
+    <string-array name="cat">
+        <item>JAVA</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>OS</item>
+        <item>SF</item>
+        <item>DBMS</item>
+    </string-array>
+    <string name="app_names">AlertDialog</string>  
+    <string name="dialog_message">Welcome to Alert Dialog</string>  
+    <string name="dialog_title">Javatpoint Alert Dialog</string>  
+    <string-array name="camp">
+        <item>Biscuts</item>
+        <item>Packing</item>
+        <item>Cookies</item>
+        <item>Vada</item>
+        <item>Samosa</item>
+        <item>Tea</item>
+        <item>Coffee</item>
+        <item>Pups</item>
+    </string-array>
+    <string-array name="act">
+        <item>APPLE</item>
+        <item>ORANGE</item>
+        <item>POMEGRANTE</item>
+        <item>ORANGE</item>
+    </string-array>
+    <string-array name="dept">
+        <item>MECH</item>
+        <item>EEE</item>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>Automobile</item>
+        <item>EIE</item>
+        
+    </string-array>
+
+    <string name="title_activity_ncc_social">Ncc_social</string>
+    <string name="title_activity_ncc_profile">Ncc_profile</string>
+    <string name="title_activity_ncc_event">Ncc_event</string>
+    <string name="title_activity_ncc__od">NCC_OD</string>
+    <string name="title_activity_order">Order</string>
+    
+     <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+</resources>

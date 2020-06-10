@@ -1,0 +1,122 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\workspace.xml
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\example\
+* app\src\main\java\com\example\library\
+* app\src\main\java\com\example\library\CustomAdapter.java
+* app\src\main\java\com\example\library\CustomAdapter1.java
+* app\src\main\java\com\example\library\HttpServiceClass.java
+* app\src\main\java\com\example\library\JSONParser.java
+* app\src\main\java\com\example\library\ListAdapter.java
+* app\src\main\java\com\example\library\MainActivity.java
+* app\src\main\java\com\example\library\MainActivity1.java
+* app\src\main\java\com\example\library\MainActivityList.java
+* app\src\main\java\com\example\library\MainActivityLogin.java
+* app\src\main\java\com\example\library\MainActivityP.java
+* app\src\main\java\com\example\library\Ncc_Parede.java
+* app\src\main\java\com\example\library\Ncc_profile.java
+* app\src\main\java\com\example\library\Subject.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\addicon.png
+* app\src\main\res\drawable-mdpi\bg_gradient.xml
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\ico_mic.png
+* app\src\main\res\drawable-mdpi\java.png
+* app\src\main\res\drawable-mdpi\kln.jpeg
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\layout\activity_main_list.xml
+* app\src\main\res\layout\activity_main_login.xml
+* app\src\main\res\layout\activity_mainp.xml
+* app\src\main\res\layout\lisst1.xml
+* app\src\main\res\layout\listv.xml
+* app\src\main\res\layout\listvv.xml
+* app\src\main\res\layout\ncc__parede.xml
+* app\src\main\res\layout\ncc_profile.xml
+* app\src\main\res\layout\programlist.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\main.xml
+* app\src\main\res\values-sw600dp\
+* app\src\main\res\values-sw600dp\dimens.xml
+* app\src\main\res\values-sw720dp-land\
+* app\src\main\res\values-sw720dp-land\dimens.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values\
+* app\src\main\res\values\colors.xml
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

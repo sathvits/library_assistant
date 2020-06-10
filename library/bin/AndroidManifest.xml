@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.library"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/book"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.library.MainActivityLogin"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.example.library.Ncc_Parede" />
+        <activity
+            android:name="com.example.library.Ncc_profile" />
+        <activity
+            android:name="com.example.library.MainActivityP" />
+         <activity
+            android:name="com.example.library.MainActivity" />
+           <activity
+            android:name="com.example.library.MainActivity1" />
+          <activity
+            android:name="com.example.library.MainActivityList" />
+             <activity
+            android:name="com.example.library.MainActivityList1" />
+          
+           <activity
+            android:name="com.example.library.ShopHome" />
+            <activity
+            android:name="com.example.library.Shop_Item_Home" />
+    </application>
+
+</manifest>

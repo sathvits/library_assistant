@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#E12929</color>
+    <color name="accent">#FFFFFF</color>
+    
+   
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="loginColor">#ff9900</color>
+    <color name="registerColor">#0099ff</color>
+
+    <color name="toolbar_title_color">#ffffff</color>
+
+    <color name="girdview_text_color">#000000</color>
+
+    <color name="title">#FFFFFF</color>
+
+
+    <color name="text1">#6b6b6b</color>
+    <color name="text2">#090909</color>
+    <color name="textcolor_follow">#B2FFFF</color>
+    <color name="background_follow">#019FE8</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="background_white">#FFFFFF</color>
+
+    <color name="background_black">#000000</color>
+    <color name="subtitle_color">#7E7C7D</color>
+    <color name="viewline_color">#3D3B3C</color>
+    <color name="textcolor_white">#FFFFFF</color>
+    <color name="follow_background">#019FE8</color>
+    <color name="follow_textcolor">#B2FFFF</color>
+    <color name="body_color">#9D9D9D</color>
+    <color name="viewline2_color">#F5F5F5</color>
+
+
+    <color name="text_black">#000000</color>
+    <color name="subtitle_text">#7E7C7D</color>
+    <color name="othet_text">#9D9D9D</color>
+    <color name="view_line">#E9E9E9</color>
+
+    <color name="colorPrimary2">#e74c3c</color>
+    <color name="colorPrimaryDark2">#ec7063</color>
+    <color name="colorAccent2">#f93283</color>
+    <color name="purple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#2980b9</color>
+    <color name="darkpurple">#a569bd</color>
+    <color name="pinky">#fe104d</color>
+    <color name="lightgray">#808080</color>
+
+    <color name="colorPrimary1">#7b4bff</color>
+    <color name="colorPrimaryDark1">#6539ba</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="bgBottomNavigation">#fe485a</color>
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+</resources>
